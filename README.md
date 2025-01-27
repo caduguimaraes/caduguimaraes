@@ -1,6 +1,6 @@
 ### Carlos Eduardo Guimarães - [Data Analyst]
 
-## Pricing/Revenue Management, Business Intelligence and Data Analyst professional...
+## Business Intelligence and Data Analyst professional...
 with experience in the Air Transport, Leisure and Financial segment with attributions as revenue
 management and pricing, supply and demand, forecasting sales, machine learning, process
 improvement (Green Belt certified), MIS, data analysis using statistical tools, database (collection and
